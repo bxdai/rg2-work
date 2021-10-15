@@ -16,3 +16,6 @@
 1. est_lands_csv 读取热图估计位置
 2. 生成高斯分布热力图
 3. NCC(Normalized Cross Correlation)归一化互相关原理,计算位置信息
+
+### 中间文件流程
+ 'ipcai_2020_ds_8x.h5'->'spec_301_resample.h5'->spec_resample_301_lands_930.csv->proj_301_resample_lands.fcsv
