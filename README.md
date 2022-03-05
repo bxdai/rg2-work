@@ -19,3 +19,6 @@
 
 ### 中间文件流程
  'ipcai_2020_ds_8x.h5'->'spec_301_resample.h5'->spec_resample_301_lands_930.csv->proj_301_resample_lands.fcsv
+ 
+ ### 原始项目链接
+ [DeepFluoroLabeling-IPCAI2020](https://github.com/rg2/DeepFluoroLabeling-IPCAI2020/commits/master)
